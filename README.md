@@ -1,11 +1,11 @@
 <div align="center">
   <a href="https://github.com/leandroalvesmachado">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=leandroalvesmachado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=leandroalvesmachado&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroalvesmachado&layout=compact&langs_count=6&theme=dracula"/>
+  <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroalvesmachado&langs_count=6&theme=algolia"/>
 </div>
 
 <div style="display: inline_block">
