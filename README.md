@@ -1,8 +1,8 @@
 <div style="display: inline_block">
   <a href="https://github.com/leandroalvesmachado">
-    <img height="200em" width="510em" src="https://github-readme-stats.vercel.app/api?username=leandroalvesmachado&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=leandroalvesmachado&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <img height="200em" width="497em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroalvesmachado&langs_count=6&theme=algolia&layout=compact"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroalvesmachado&langs_count=6&theme=algolia&layout=compact"/>
 </div>
 
 <br>
