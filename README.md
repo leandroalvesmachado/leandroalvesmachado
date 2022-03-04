@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroalvesmachado&langs_count=6&theme=algolia"/>
+  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroalvesmachado&langs_count=6&theme=algolia&layout=compact"/>
 </div>
 
 <div style="display: inline_block">
