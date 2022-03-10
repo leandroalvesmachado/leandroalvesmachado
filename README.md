@@ -34,6 +34,10 @@
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
 </div>
 
+<p align="center">
+   <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1642672151683/36Kv4xxLV.gif" alt="Synthwave" height="300" width="500">
+</p>
+
  ##
   
 <div align="center">
